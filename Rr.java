@@ -1,10 +1,16 @@
-class Dc{
-
-static public void main (String team[]){
 
 
 
-String players[]={"david","abhishek","aman hakim","anrich","axar","chetan","ishant","kamlesh","","kuldeep","lalit","lungi","manish"};
+
+
+
+
+class Rr{
+ static public void main(String team[]){
+
+
+
+String players[]={"sanju","devdutt","shimron","JOS","yashasvi","dhruv","riyan","kunal","joe","akash","ravichandran","abdul","jason"};
 System.out.println("CSK 11 Players are: ");
 System.out.println(players[0]);
 System.out.println(players[1]);
@@ -19,9 +25,5 @@ System.out.println(players[9]);
 System.out.println(players[10]);
 System.out.println(players[11]);
 System.out.println(players[12]);
-
-
-}
-
-
+ }
 }
